@@ -511,7 +511,13 @@ button:hover {
 }
 
 
+footer{
 
+    background-color: cyan;
+    width: 100%;
+    padding: 20px;
+    margin: 0px;
+}
 
 /*+++++++++++++++++++++responsive++++++++++++++++++++++*/
 
