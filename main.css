@@ -207,7 +207,7 @@ justify-content: center;
 }
 
 
-.facebook,.insta,.twitter,.whatspp{
+.facebook,.insta,.twitter,.whatspp,.github{
     text-decoration: none;
     color: cyan;
     border: cyan solid 2px;
@@ -255,6 +255,15 @@ justify-content: center;
     box-shadow: 0px 1px 40px 11px #02e146;
     -webkit-box-shadow: 0px 1px 40px 11px #02e146;
     -moz-box-shadow: 0px 1px 40px 11px #02e146;
+}
+
+.github:hover{
+    transition: ease-in-out .3s;
+    color: white;
+    border: white;
+    box-shadow: 0px 1px 40px 11px white;
+    -webkit-box-shadow: 0px 1px 40px 11px white;
+    -moz-box-shadow: 0px 1px 40px 11px white;
 }
 
 .skill{
